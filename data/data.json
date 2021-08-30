@@ -1,0 +1,13 @@
+{
+    "navigation" : {
+        
+        "options" : [
+            {"name" : "Home", "link" : "../pages/home.html" },
+            {"name" : "About", "link" : "../pages/about.html" },
+            {"name" : "Resume", "link" : "../pages/resume.html" },
+            {"name" : "Projects", "link" : "../pages/projects.html" }
+        ]
+    
+    }, 
+    "images" : {}
+}
