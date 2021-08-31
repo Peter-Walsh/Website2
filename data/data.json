@@ -2,10 +2,10 @@
     "navigation" : {
         
         "options" : [
-            {"name" : "Home", "link" : "../pages/home.html" },
-            {"name" : "About", "link" : "../pages/about.html" },
-            {"name" : "Resume", "link" : "../pages/resume.html" },
-            {"name" : "Projects", "link" : "../pages/projects.html" }
+            {"name" : "Home", "link" : "../pages/home.html", "icon" : "fa-home"},
+            {"name" : "About", "link" : "../pages/about.html", "icon" : "fa-address-book" },
+            {"name" : "Resume", "link" : "../pages/resume.html", "icon" : "fa-list-ol"},
+            {"name" : "Projects", "link" : "../pages/projects.html", "icon" : "fa-code-branch"}
         ]
     
     }, 

@@ -1,0 +1,11 @@
+{
+    "projects" : [
+        {
+            "name" : "Web Calender", 
+            "link" : "", 
+            "description" : "",
+            "learned" : [],
+            "image_link" : "../data/data.json"
+        }
+    ]
+}
