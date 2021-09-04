@@ -2,9 +2,14 @@
     "projects" : [
         {
             "name" : "Web Calender", 
-            "link" : "", 
-            "description" : "",
-            "learned" : [],
+            "link" : "https://github.com/Peter-Walsh/Web-Calender", 
+            "description" : "Simple REST service using Python and Flask framework",
+            "learned" : [
+                "Flask-framework (RESTful, SQLAlchemy)",
+                "Basic HTTP requests (GET, POST, DELETE) and Postman",
+                "SQL (SQLite3)",
+                "Python Datetime objects and working with JSON"
+            ],
             "image_link" : "../data/data.json"
         }
     ]

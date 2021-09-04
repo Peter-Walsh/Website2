@@ -1,8 +1,13 @@
-
 function build_home(data_path) {
     let my_json = $.getJSON(data_path, (json) => {
-        add("body", build_navbar(json.navigation.options)); // Adds navigation bar to the page
+        add("body", build_navbar(json.navigation.options)); // Adds navigation bar to the home page
     });
+}
+
+function build_projects(data_path) {
+    let my_json = $.getJSON(data_path, (json) => {
+        add("body", build_navbar(json.navigation.options)); // Adds navigation bar to the project page
+    })
 }
 
 function add(location, element) {
